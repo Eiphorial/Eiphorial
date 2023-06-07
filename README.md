@@ -18,6 +18,13 @@ tset table
 |     2| Python    |
 |     3| SQL       |
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
 <!---
 Eiphorial/Eiphorial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
